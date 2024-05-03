@@ -12,13 +12,13 @@ export default function Home() {
   return (
     <main className="my-24">
       <div className="text-center w-full m-auto">
-        <p className="text-6xl leading-10 font-bold">
+        <p className="text-6xl text-white leading-10 font-bold">
           {highlightWords(wordOne)}
         </p>
-        <p className="text-6xl leading-10 font-bold my-4">
+        <p className="text-6xl leading-10 text-white font-bold my-4">
           {highlightWords(wordTwo)}
         </p>
-        <p className="w-[70%] m-auto my-2">{t("desc")}</p>
+        <p className="w-[40%] text-white m-auto my-2">{t("desc")}</p>
         <button className="rounded-3xl bg-primary p-3 text-white justify-center m-auto my-4 gap-2 flex h-auto items-center">
           {t("btn")}
           <FaArrowRightLong />
