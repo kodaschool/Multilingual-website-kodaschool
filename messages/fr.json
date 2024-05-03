@@ -1,0 +1,26 @@
+{
+  "IndexPage": {
+    "title": "Hello world!"
+  },
+  "Navigation":{
+    "about" :"À propos de nous",
+    "pricing":"Tarifs",
+     "features":"Fonctionnalités",
+     "contact":"Contact",
+     "btn":"Commencer"
+  },
+  "HomePage":{
+   "titleOne":"Renforcez vos transactions,",
+   "titleTwo":"Libérez des possibilités",
+   "desc":"Avec Karapay, dites adieu aux tracas traditionnels et découvrez des transferts mobiles mondiaux sans soucis, accueillant la confiance et la simplicité",
+   "btn":"Empieza, es gratis."
+  
+  },
+  "PricingPage":{
+
+  },
+   "NotFoundPage":{
+     "title":"Quelque chose s'est mal passé !"
+  }
+
+}

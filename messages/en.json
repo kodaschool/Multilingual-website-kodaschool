@@ -1,0 +1,25 @@
+{
+  "IndexPage": {
+    "title": "Hello world!"
+  },
+  "Navigation":{
+     "about" :"About us",
+    "pricing":"Pricing",
+     "features":"Features",
+     "contact":"Contact",
+     "btn":"Getting started"
+  },
+  "HomePage":{
+   "titleOne":"Empower your transactions,",
+   "titleTwo":"Unleash the possibilities",
+   "desc":"With Karpay, bid farewell to traditional hassles and experience hassle free global money trnasfers welcoming confdence and simplicity",
+   "btn":"Get started it is free"
+  },
+  "PricingPage":{
+
+  },
+   "NotFoundPage":{
+     "title":"Something went wrong!"
+  }
+
+}

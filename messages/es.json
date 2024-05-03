@@ -1,0 +1,25 @@
+{
+  "IndexPage": {
+    "title": "Hello world!"
+  },
+  "Navigation":{
+     "about" :"Sobre nosotras",
+    "pricing":"Precios",
+     "features":"Características",
+     "contact":"Contacto",
+     "btn":"Empezando"
+  },
+  "HomePage":{
+   "titleOne":"Potencia tus transacciones,",
+   "titleTwo":"Desata posibilidades",
+   "desc":"Con Karpay, diga adiós a las molestias tradicionales y experimente transferencias de dinero globales sin complicaciones, con confianza y simplicidad.",
+   "btn":"Empieza, es gratis."
+  },
+  "PricingPage":{
+
+  },
+   "NotFoundPage":{
+     "title":"¡Algo salió mal!"
+  }
+
+}
